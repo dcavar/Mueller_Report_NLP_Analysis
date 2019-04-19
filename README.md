@@ -1,5 +1,9 @@
 # Mueller Report NLP Analysis
 
+Created: 04/18/2019
+
+Last Change: 04/19/2019
+
 This repo contains the data and results of our NLP-based Mueller Report Analysis, Knowledge Graphs, entitites, relations, and so on.
 
 Results will be published incrementaly as we identify them.
@@ -15,7 +19,7 @@ This is a collaborative effort between:
 
 The team consists of:
 
-- Damir Cavar
+- [Damir Cavar](http://damir.cavar.me/)
 - Stefan Geissler
 - Maanvitha Gongala
 - Joshua Herring
